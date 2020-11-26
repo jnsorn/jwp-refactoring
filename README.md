@@ -144,7 +144,7 @@
     - [x] MenuProduct
     - [x] Order
     - [x] OrderLineItem
-    - [ ] OrderTable
+    - [x] OrderTable
     - [ ] TableGroup
     
  
