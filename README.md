@@ -142,7 +142,8 @@
     - [x] MenuGroup
     - [x] Menu
     - [x] MenuProduct
-    - [ ] Order
+    - [x] Order
+    - [x] OrderLineItem
     - [ ] OrderTable
     - [ ] TableGroup
     
